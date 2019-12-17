@@ -1,2 +1,2 @@
 # R2-D2
-a perl bot
+An IRC BOT in Perl to work with IRSSI.
